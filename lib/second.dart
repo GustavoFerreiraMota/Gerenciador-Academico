@@ -2,6 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:crypto/crypto.dart';
+import 'package:gerenciador_academico/first.dart';
 
 class DadosUsuarios {
   //Atributos
@@ -125,8 +126,8 @@ class SecondPage extends StatelessWidget {
                 height: 50.0,
                 child: RaisedButton(
                   onPressed: () {
-                    // Navigator.push(context,
-                    //MaterialPageRoute(builder: (context) => FirstPage()));
+                     Navigator.push(context,
+                    MaterialPageRoute(builder: (context) => FirstPage()));
                     DadosUsuarios obj = new DadosUsuarios(
                         txtNomeUsuario.text,
                         txtemailUsuario.text,
