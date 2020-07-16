@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83469886346",
+    "firebase_url": "https://app-gerenciador-tarefa.firebaseio.com",
+    "project_id": "app-gerenciador-tarefa",
+    "storage_bucket": "app-gerenciador-tarefa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83469886346:android:83ce4b6885a942185fde73",
+        "android_client_info": {
+          "package_name": "com.example.gerenciador_academico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83469886346-eoedo1efiejiqrnkr0mb94p5lfph4afc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCkGvp3BoGL8liyjWKephdHqDKgvlD7do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83469886346-eoedo1efiejiqrnkr0mb94p5lfph4afc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
